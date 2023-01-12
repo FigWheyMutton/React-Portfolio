@@ -1,5 +1,5 @@
 .nav {
     display:flex;
     justify-content: flex-end;
-    
+    padding: 40px;
 }
