@@ -24,6 +24,7 @@
 
 .footer img {
     height: 50px;
+    border-radius: 50%;
 }
 
 .bodyContainer {
@@ -32,4 +33,9 @@
     padding: 50px;
     margin: 0px;
     background-color: #ade8f4;
+}
+
+.github {
+    border-radius: 50%;
+    padding-right: 3px;
 }
