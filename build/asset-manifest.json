@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.661b8b60.css",
+    "main.js": "/react-gh-pages/static/js/main.7102137f.js",
+    "static/media/horiseon.png": "/react-gh-pages/static/media/horiseon.2d950203d0d42c51a4ad.png",
+    "static/media/boiler-plate.png": "/react-gh-pages/static/media/boiler-plate.5d28aba1319c04945d98.png",
+    "static/media/burnwhisper.png": "/react-gh-pages/static/media/burnwhisper.9a3fdf4a03b90a1fa658.png",
+    "static/media/linkedIn.png": "/react-gh-pages/static/media/linkedIn.144d4e217582333c7ca2.png",
+    "static/media/employeeTracking.png": "/react-gh-pages/static/media/employeeTracking.59a9b2b53655add515c2.png",
+    "static/media/stackOverflow.png": "/react-gh-pages/static/media/stackOverflow.ed360ec0874b976871a0.png",
+    "static/media/socialNetworkApi.png": "/react-gh-pages/static/media/socialNetworkApi.439c89e1006720c018b3.png",
+    "static/media/teamProfileGenerator.png": "/react-gh-pages/static/media/teamProfileGenerator.04ff23e2a30fb73fe7a7.png",
+    "static/media/noteTaker.png": "/react-gh-pages/static/media/noteTaker.f27643f2db781ac05cd3.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.661b8b60.css.map": "/react-gh-pages/static/css/main.661b8b60.css.map",
+    "main.7102137f.js.map": "/react-gh-pages/static/js/main.7102137f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661b8b60.css",
+    "static/js/main.7102137f.js"
+  ]
+}
