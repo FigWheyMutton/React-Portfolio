@@ -1,0 +1,7 @@
+.workhero  {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: calc(80% - 20px);
+  }
