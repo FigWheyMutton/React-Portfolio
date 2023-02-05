@@ -3,6 +3,8 @@
     position:relative;
     background-color: rgb(41%, 39%, 72%);
     margin: 10px;
+    border-radius: 25px;
+    border: 2px solid;
   }
   
   .workhero  {
@@ -17,6 +19,8 @@
     height: 100%;
     padding: 2px;
     object-fit: cover;
+    border-radius: 25px;
+    border: 2px solid;
   }
   
   .image_overlay {
@@ -34,6 +38,8 @@
     justify-content: center;
     opacity: 0;
     transition: opacity 0.25s;
+        border-radius: 25px;
+    border: 2px solid;
   }
   
   .image_overlay_blur {
