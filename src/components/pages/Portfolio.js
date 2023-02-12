@@ -51,7 +51,16 @@ export default function Projects() {
             repolink: "https://github.com/FigWheyMutton/Social-Network-Api--Mongoose",
             applink: "https://boiling-harbor-03856.herokuapp.com/",
             description: "Built using Mongoose and Express showcasing CRUD operations"
+        },
+        {
+            name: "Frogge E-Commerce Website",
+            image: "Frogge",
+            imageDesc: "React E-commerce website homepage",
+            repolink: "https://github.com/FigWheyMutton/Social-Network-Api--Mongoose",
+            applink: "https://boiling-harbor-03856.herokuapp.com/",
+            description: "Built using Stripe, React, and ApolloClient"
         }
+        
     ]);
     
     return(
