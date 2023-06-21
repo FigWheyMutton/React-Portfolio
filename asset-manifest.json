@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.faa9a90d.css",
-    "main.js": "/React-Portfolio/static/js/main.7317eb92.js",
+    "main.css": "/React-Portfolio/static/css/main.4d677ff3.css",
+    "main.js": "/React-Portfolio/static/js/main.b257ca6f.js",
     "static/media/horiseon.png": "/React-Portfolio/static/media/horiseon.2d950203d0d42c51a4ad.png",
-    "static/media/boiler-plate.png": "/React-Portfolio/static/media/boiler-plate.5d28aba1319c04945d98.png",
+    "static/media/aboutMePhoto.png": "/React-Portfolio/static/media/aboutMePhoto.7ec16a8edb7646c09a73.png",
     "static/media/Frogge.png": "/React-Portfolio/static/media/Frogge.1ca61cd7335b21c1cb4d.png",
     "static/media/burnwhisper.png": "/React-Portfolio/static/media/burnwhisper.9a3fdf4a03b90a1fa658.png",
     "static/media/linkedIn.png": "/React-Portfolio/static/media/linkedIn.144d4e217582333c7ca2.png",
@@ -13,11 +13,11 @@
     "static/media/teamProfileGenerator.png": "/React-Portfolio/static/media/teamProfileGenerator.04ff23e2a30fb73fe7a7.png",
     "static/media/noteTaker.png": "/React-Portfolio/static/media/noteTaker.f27643f2db781ac05cd3.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.faa9a90d.css.map": "/React-Portfolio/static/css/main.faa9a90d.css.map",
-    "main.7317eb92.js.map": "/React-Portfolio/static/js/main.7317eb92.js.map"
+    "main.4d677ff3.css.map": "/React-Portfolio/static/css/main.4d677ff3.css.map",
+    "main.b257ca6f.js.map": "/React-Portfolio/static/js/main.b257ca6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.faa9a90d.css",
-    "static/js/main.7317eb92.js"
+    "static/css/main.4d677ff3.css",
+    "static/js/main.b257ca6f.js"
   ]
 }
