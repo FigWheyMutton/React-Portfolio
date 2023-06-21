@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.76ca083e.css",
+    "main.css": "/React-Portfolio/static/css/main.faa9a90d.css",
     "main.js": "/React-Portfolio/static/js/main.7317eb92.js",
     "static/media/horiseon.png": "/React-Portfolio/static/media/horiseon.2d950203d0d42c51a4ad.png",
     "static/media/boiler-plate.png": "/React-Portfolio/static/media/boiler-plate.5d28aba1319c04945d98.png",
@@ -13,11 +13,11 @@
     "static/media/teamProfileGenerator.png": "/React-Portfolio/static/media/teamProfileGenerator.04ff23e2a30fb73fe7a7.png",
     "static/media/noteTaker.png": "/React-Portfolio/static/media/noteTaker.f27643f2db781ac05cd3.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.76ca083e.css.map": "/React-Portfolio/static/css/main.76ca083e.css.map",
+    "main.faa9a90d.css.map": "/React-Portfolio/static/css/main.faa9a90d.css.map",
     "main.7317eb92.js.map": "/React-Portfolio/static/js/main.7317eb92.js.map"
   },
   "entrypoints": [
-    "static/css/main.76ca083e.css",
+    "static/css/main.faa9a90d.css",
     "static/js/main.7317eb92.js"
   ]
 }
