@@ -1,5 +1,6 @@
 .root {
     background-color: #ade8f4;
+    overflow: hidden;
 }
 
 .navbar {
@@ -32,9 +33,9 @@
 }
 
 .bodyContainer {
-    height: fit-content;
+    height: fit-content; 
     width: 100%;
-    padding: 50px;
+    padding: 120px;
     margin: 0px;
     background-color: #ade8f4;
 }
